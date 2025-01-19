@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="2200" height="1400" viewBox="0 0 1100 700">
+<defs>
+<clipPath id="clip-0">
+<circle cx="700.0" cy="350.0" r="50" />
+</clipPath>
+<clipPath id="clip-1">
+<circle cx="656.0660171779821" cy="456.06601717798213" r="50" />
+</clipPath>
+<clipPath id="clip-2">
+<circle cx="550.0" cy="500.0" r="50" />
+</clipPath>
+<clipPath id="clip-3">
+<circle cx="443.93398282201787" cy="456.06601717798213" r="50" />
+</clipPath>
+<clipPath id="clip-4">
+<circle cx="400.0" cy="350.0" r="50" />
+</clipPath>
+<clipPath id="clip-5">
+<circle cx="443.93398282201787" cy="243.93398282201787" r="50" />
+</clipPath>
+<clipPath id="clip-6">
+<circle cx="550.0" cy="200.0" r="50" />
+</clipPath>
+<clipPath id="clip-7">
+<circle cx="656.0660171779821" cy="243.93398282201787" r="50" />
+</clipPath>
+</defs>
+<rect x="0" y="0" width="1100" height="700" fill="lightblue" />
+<g>
+<circle cx="216" cy="199" r="1.9107918101223926" fill="white" />
+<animate attributeName="opacity" dur="1.0402645390935268" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="120" cy="191" r="0.2925933495162666" fill="white" />
+<animate attributeName="opacity" dur="2.835696235626105" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="34" cy="168" r="0.9392450410906688" fill="white" />
+<animate attributeName="opacity" dur="2.6293997662453674" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="475" cy="605" r="1.632934241217627" fill="white" />
+<animate attributeName="opacity" dur="1.0081890227626287" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="161" cy="225" r="1.1197962551160698" fill="white" />
+<animate attributeName="opacity" dur="3.2129907491160283" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="617" cy="74" r="0.6924393581794301" fill="white" />
+<animate attributeName="opacity" dur="1.3955544620334481" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="588" cy="423" r="1.1891527106267732" fill="white" />
+<animate attributeName="opacity" dur="3.5893192201229063" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="462" cy="124" r="0.16090794222111315" fill="white" />
+<animate attributeName="opacity" dur="3.719221320791216" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="753" cy="451" r="1.280561410260942" fill="white" />
+<animate attributeName="opacity" dur="3.669464347343477" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="411" cy="42" r="1.592744128301688" fill="white" />
+<animate attributeName="opacity" dur="0.9727087404508756" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="834" cy="23" r="1.7543064841994993" fill="white" />
+<animate attributeName="opacity" dur="2.4777582962161686" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="837" cy="148" r="1.67488996773129" fill="white" />
+<animate attributeName="opacity" dur="3.7133171249473627" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="524" cy="122" r="1.2159621647212082" fill="white" />
+<animate attributeName="opacity" dur="3.9792164301707924" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="1009" cy="584" r="1.419961757020993" fill="white" />
+<animate attributeName="opacity" dur="2.5582327885292955" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="977" cy="361" r="0.7610932122838963" fill="white" />
+<animate attributeName="opacity" dur="3.179651712149293" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="742" cy="139" r="0.9770298013498593" fill="white" />
+<animate attributeName="opacity" dur="3.766436706030788" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="763" cy="259" r="0.7370955288034498" fill="white" />
+<animate attributeName="opacity" dur="0.7348647535201676" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="509" cy="397" r="0.42007531967312073" fill="white" />
+<animate attributeName="opacity" dur="0.7118873284480091" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="884" cy="387" r="0.41407730021128264" fill="white" />
+<animate attributeName="opacity" dur="1.5115446468700409" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="538" cy="651" r="1.4628972431277294" fill="white" />
+<animate attributeName="opacity" dur="1.7127056403972714" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="43" cy="481" r="1.2621035290682128" fill="white" />
+<animate attributeName="opacity" dur="1.4925651016615575" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="200" cy="638" r="1.2317409265253703" fill="white" />
+<animate attributeName="opacity" dur="0.9402655292283846" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="211" cy="555" r="1.420554745469657" fill="white" />
+<animate attributeName="opacity" dur="2.424830235181565" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="681" cy="110" r="1.9704565845169653" fill="white" />
+<animate attributeName="opacity" dur="0.9153131657768215" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="840" cy="150" r="0.7945555679527881" fill="white" />
+<animate attributeName="opacity" dur="2.283975249955052" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="1047" cy="409" r="0.383687095451541" fill="white" />
+<animate attributeName="opacity" dur="3.9890130264166794" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="632" cy="48" r="1.7150076332403839" fill="white" />
+<animate attributeName="opacity" dur="3.801333630154068" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="439" cy="615" r="0.7902032365769127" fill="white" />
+<animate attributeName="opacity" dur="3.0161858155018058" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="345" cy="401" r="1.9742628134395617" fill="white" />
+<animate attributeName="opacity" dur="2.866078723491878" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="69" cy="401" r="0.35907693930502826" fill="white" />
+<animate attributeName="opacity" dur="2.5855521545040565" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="495" cy="425" r="0.8206445014457464" fill="white" />
+<animate attributeName="opacity" dur="1.1089197601680283" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="342" cy="361" r="0.8762306946702556" fill="white" />
+<animate attributeName="opacity" dur="3.106070337133853" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="901" cy="637" r="1.465721191867423" fill="white" />
+<animate attributeName="opacity" dur="2.505521964892826" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="110" cy="488" r="0.7082203168722137" fill="white" />
+<animate attributeName="opacity" dur="3.4032067782340754" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="232" cy="148" r="0.3406549391644542" fill="white" />
+<animate attributeName="opacity" dur="3.091861386362867" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="1063" cy="545" r="0.9973070234709587" fill="white" />
+<animate attributeName="opacity" dur="0.9050030339285459" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="1017" cy="531" r="1.0259930935247554" fill="white" />
+<animate attributeName="opacity" dur="3.1925026988613823" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="558" cy="58" r="1.6389613618238308" fill="white" />
+<animate attributeName="opacity" dur="1.349939368171926" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="1041" cy="317" r="1.775709269849221" fill="white" />
+<animate attributeName="opacity" dur="2.866283397371518" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="231" cy="1" r="1.1223400887808526" fill="white" />
+<animate attributeName="opacity" dur="2.206232612369168" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="205" cy="605" r="0.9493916531532267" fill="white" />
+<animate attributeName="opacity" dur="0.8995010316664938" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="862" cy="536" r="0.8676511525966785" fill="white" />
+<animate attributeName="opacity" dur="1.429032460960665" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="87" cy="658" r="1.3421963167326554" fill="white" />
+<animate attributeName="opacity" dur="1.9258294088260977" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="580" cy="123" r="1.025898393782352" fill="white" />
+<animate attributeName="opacity" dur="2.2158223591509616" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="256" cy="168" r="0.6264370986856914" fill="white" />
+<animate attributeName="opacity" dur="3.3905106819439546" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="724" cy="499" r="0.22991235426161558" fill="white" />
+<animate attributeName="opacity" dur="2.7357986803625547" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="1080" cy="17" r="1.3463202331709268" fill="white" />
+<animate attributeName="opacity" dur="1.0378752762765335" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="67" cy="560" r="0.35920204611229334" fill="white" />
+<animate attributeName="opacity" dur="1.6611574546192662" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="26" cy="187" r="0.9647573133966946" fill="white" />
+<animate attributeName="opacity" dur="1.2698554299429685" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="671" cy="355" r="0.517116223823367" fill="white" />
+<animate attributeName="opacity" dur="0.7609648822551323" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="527" cy="239" r="0.3546564229915762" fill="white" />
+<animate attributeName="opacity" dur="3.9665319243360946" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="917" cy="646" r="0.9801451807674632" fill="white" />
+<animate attributeName="opacity" dur="1.8137896562924651" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="35" cy="369" r="1.2416100038134827" fill="white" />
+<animate attributeName="opacity" dur="1.1001967138786282" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="312" cy="86" r="0.8557209320125235" fill="white" />
+<animate attributeName="opacity" dur="2.9052566399065176" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="439" cy="93" r="1.692001305729533" fill="white" />
+<animate attributeName="opacity" dur="3.190450947463826" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="32" cy="483" r="0.875752361398757" fill="white" />
+<animate attributeName="opacity" dur="3.6108503339646036" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="693" cy="46" r="1.219819471665904" fill="white" />
+<animate attributeName="opacity" dur="1.8760212053334497" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="772" cy="4" r="0.45077333755108817" fill="white" />
+<animate attributeName="opacity" dur="3.212615282756965" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="107" cy="594" r="0.4445615224166378" fill="white" />
+<animate attributeName="opacity" dur="0.8332801831467509" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="642" cy="2" r="0.7933881156344536" fill="white" />
+<animate attributeName="opacity" dur="2.347455691579008" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="492" cy="108" r="0.9853915593569368" fill="white" />
+<animate attributeName="opacity" dur="3.589280524076621" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="711" cy="168" r="1.4628445434749018" fill="white" />
+<animate attributeName="opacity" dur="3.468639775411795" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="70" cy="120" r="1.7165311527858265" fill="white" />
+<animate attributeName="opacity" dur="3.23053288318639" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="921" cy="422" r="1.0658984912506269" fill="white" />
+<animate attributeName="opacity" dur="1.5385840487248628" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="768" cy="220" r="0.24034509859166725" fill="white" />
+<animate attributeName="opacity" dur="2.4225444220456676" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="544" cy="346" r="0.9454401948823009" fill="white" />
+<animate attributeName="opacity" dur="1.2687144496088743" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="976" cy="192" r="0.2461372484513041" fill="white" />
+<animate attributeName="opacity" dur="3.1511683550722775" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="855" cy="316" r="1.4881448009919855" fill="white" />
+<animate attributeName="opacity" dur="2.848841905755866" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="113" cy="168" r="0.8255088950536594" fill="white" />
+<animate attributeName="opacity" dur="1.572428156872606" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="691" cy="525" r="0.8761731202336495" fill="white" />
+<animate attributeName="opacity" dur="2.8137078321174895" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="795" cy="539" r="1.1878111164573566" fill="white" />
+<animate attributeName="opacity" dur="0.8496333491792516" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="235" cy="316" r="1.8182342724087213" fill="white" />
+<animate attributeName="opacity" dur="3.58937488925606" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="780" cy="672" r="0.5909694893210696" fill="white" />
+<animate attributeName="opacity" dur="2.2771782739352746" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="149" cy="246" r="0.2814470941535152" fill="white" />
+<animate attributeName="opacity" dur="2.5933576629959063" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="461" cy="124" r="0.7182192566908471" fill="white" />
+<animate attributeName="opacity" dur="0.9527244573312034" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="691" cy="66" r="0.7028047577737369" fill="white" />
+<animate attributeName="opacity" dur="1.6804996169321185" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="656" cy="69" r="1.2706039120289594" fill="white" />
+<animate attributeName="opacity" dur="2.2987199395522366" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="393" cy="432" r="0.8354209732101172" fill="white" />
+<animate attributeName="opacity" dur="0.9084762141991679" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="972" cy="174" r="1.3028381004015162" fill="white" />
+<animate attributeName="opacity" dur="3.5695185903759503" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="76" cy="668" r="0.730047895559178" fill="white" />
+<animate attributeName="opacity" dur="3.423635858237688" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="593" cy="530" r="0.9339722830710806" fill="white" />
+<animate attributeName="opacity" dur="3.0080511933488587" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="663" cy="41" r="1.0473791036971825" fill="white" />
+<animate attributeName="opacity" dur="1.3374266669404093" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="622" cy="445" r="0.7286331641897152" fill="white" />
+<animate attributeName="opacity" dur="0.7026567558694818" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="781" cy="590" r="0.8926830698227265" fill="white" />
+<animate attributeName="opacity" dur="2.50439591256046" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="979" cy="513" r="1.8346701494587392" fill="white" />
+<animate attributeName="opacity" dur="0.8678387301777145" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="807" cy="38" r="1.6463408139884894" fill="white" />
+<animate attributeName="opacity" dur="2.5001556426274867" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="1071" cy="171" r="1.8221516270076727" fill="white" />
+<animate attributeName="opacity" dur="1.2311354588496517" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="729" cy="641" r="1.5509806314553714" fill="white" />
+<animate attributeName="opacity" dur="2.668984658989486" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="687" cy="453" r="1.1754383027227082" fill="white" />
+<animate attributeName="opacity" dur="2.8455856035111635" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="926" cy="305" r="0.35151023052524466" fill="white" />
+<animate attributeName="opacity" dur="1.2580864714961688" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="206" cy="7" r="1.6891084814826947" fill="white" />
+<animate attributeName="opacity" dur="2.8417568196819216" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="298" cy="132" r="1.4724560333856114" fill="white" />
+<animate attributeName="opacity" dur="1.505590491377399" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="219" cy="389" r="0.5241549066991189" fill="white" />
+<animate attributeName="opacity" dur="3.050092775193283" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="236" cy="239" r="0.9624403512037449" fill="white" />
+<animate attributeName="opacity" dur="3.7007747338744315" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="959" cy="415" r="0.13951422590042833" fill="white" />
+<animate attributeName="opacity" dur="3.8418026606194324" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="576" cy="175" r="1.8452347195864105" fill="white" />
+<animate attributeName="opacity" dur="3.3803021236967368" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="907" cy="38" r="0.3801932098813723" fill="white" />
+<animate attributeName="opacity" dur="2.9924014348541714" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="950" cy="141" r="1.15935990873112" fill="white" />
+<animate attributeName="opacity" dur="2.087181638348895" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="410" cy="597" r="1.3387223653412166" fill="white" />
+<animate attributeName="opacity" dur="0.8572073482617072" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="657" cy="614" r="1.075186226321057" fill="white" />
+<animate attributeName="opacity" dur="2.9047093814322578" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="890" cy="549" r="1.433281659985503" fill="white" />
+<animate attributeName="opacity" dur="2.9537200792057243" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="778" cy="325" r="0.40997554085068233" fill="white" />
+<animate attributeName="opacity" dur="2.0779430879145635" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="332" cy="110" r="1.3375442335119037" fill="white" />
+<animate attributeName="opacity" dur="3.7722453179028737" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="409" cy="146" r="1.0478580647180311" fill="white" />
+<animate attributeName="opacity" dur="3.157599577886553" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="51" cy="55" r="0.5463569333841031" fill="white" />
+<animate attributeName="opacity" dur="3.568534160553731" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="403" cy="679" r="0.5857747652008467" fill="white" />
+<animate attributeName="opacity" dur="1.22452182392477" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="248" cy="496" r="1.0281287100319094" fill="white" />
+<animate attributeName="opacity" dur="1.5480225298639152" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="57" cy="159" r="1.714478774120615" fill="white" />
+<animate attributeName="opacity" dur="1.5815577964063332" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="341" cy="286" r="1.2223726431942399" fill="white" />
+<animate attributeName="opacity" dur="1.2745408429153708" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="691" cy="332" r="0.8218443675150503" fill="white" />
+<animate attributeName="opacity" dur="2.6479664675696233" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="227" cy="365" r="1.6925799876214611" fill="white" />
+<animate attributeName="opacity" dur="1.4186158550183823" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="12" cy="258" r="1.8991096915044579" fill="white" />
+<animate attributeName="opacity" dur="2.373002392618231" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="652" cy="129" r="1.2682248719532243" fill="white" />
+<animate attributeName="opacity" dur="2.6942164386742213" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="371" cy="599" r="0.57612402591919" fill="white" />
+<animate attributeName="opacity" dur="1.8282056237267117" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="660" cy="577" r="0.7346282341255531" fill="white" />
+<animate attributeName="opacity" dur="2.2720765898596627" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="415" cy="184" r="1.4320314716752485" fill="white" />
+<animate attributeName="opacity" dur="2.6784737557637843" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="743" cy="353" r="0.48758824720339733" fill="white" />
+<animate attributeName="opacity" dur="1.3602646261245699" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="701" cy="321" r="1.3017127323756168" fill="white" />
+<animate attributeName="opacity" dur="2.0226531615024648" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="785" cy="605" r="0.3444958292148119" fill="white" />
+<animate attributeName="opacity" dur="2.724428888951416" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="601" cy="379" r="0.4114232867330768" fill="white" />
+<animate attributeName="opacity" dur="2.372998492764208" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="482" cy="450" r="0.11674403293266175" fill="white" />
+<animate attributeName="opacity" dur="1.1673069854289826" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="886" cy="76" r="0.5730797115705876" fill="white" />
+<animate attributeName="opacity" dur="1.9432681345822027" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="863" cy="188" r="0.7021164837565914" fill="white" />
+<animate attributeName="opacity" dur="1.5081373841364238" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="11" cy="289" r="0.8294525338781518" fill="white" />
+<animate attributeName="opacity" dur="0.7791397129771972" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="1017" cy="426" r="1.0585175231634139" fill="white" />
+<animate attributeName="opacity" dur="2.6259604824567093" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="823" cy="638" r="1.180976933381956" fill="white" />
+<animate attributeName="opacity" dur="1.6689484889340047" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="836" cy="342" r="0.27420660587413315" fill="white" />
+<animate attributeName="opacity" dur="3.4354525690346884" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="683" cy="530" r="0.5402139341477996" fill="white" />
+<animate attributeName="opacity" dur="2.45504865443725" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="189" cy="315" r="1.609608908853025" fill="white" />
+<animate attributeName="opacity" dur="3.470846443650358" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="188" cy="435" r="0.8113116720709822" fill="white" />
+<animate attributeName="opacity" dur="2.060175438570941" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="16" cy="199" r="0.5012460503986705" fill="white" />
+<animate attributeName="opacity" dur="1.4837829255646895" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="178" cy="185" r="0.524383177121896" fill="white" />
+<animate attributeName="opacity" dur="1.9419718090173976" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="951" cy="447" r="1.9826476966965665" fill="white" />
+<animate attributeName="opacity" dur="1.3264297050885958" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="245" cy="635" r="0.4220199068474516" fill="white" />
+<animate attributeName="opacity" dur="3.4732772413266018" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="671" cy="576" r="1.730355336241001" fill="white" />
+<animate attributeName="opacity" dur="3.1743189275906465" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="516" cy="280" r="0.6270277502411301" fill="white" />
+<animate attributeName="opacity" dur="3.968917363706627" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="973" cy="51" r="0.5622399078663933" fill="white" />
+<animate attributeName="opacity" dur="0.9701050305035355" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="967" cy="413" r="0.7428949193761867" fill="white" />
+<animate attributeName="opacity" dur="0.9085087892412468" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="689" cy="238" r="0.27718474424515394" fill="white" />
+<animate attributeName="opacity" dur="2.394730447014364" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="21" cy="380" r="1.3871979369283491" fill="white" />
+<animate attributeName="opacity" dur="1.7017030713936074" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="654" cy="673" r="1.6880545132989488" fill="white" />
+<animate attributeName="opacity" dur="2.1703824096297857" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="282" cy="634" r="1.2618714972954466" fill="white" />
+<animate attributeName="opacity" dur="1.5558974950799696" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="478" cy="564" r="0.4833343750342691" fill="white" />
+<animate attributeName="opacity" dur="2.230992908728097" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="833" cy="201" r="1.0046054758982212" fill="white" />
+<animate attributeName="opacity" dur="3.8971809444220806" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="417" cy="137" r="1.2710276871311483" fill="white" />
+<animate attributeName="opacity" dur="2.7939269938414597" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="978" cy="282" r="1.9402526220265746" fill="white" />
+<animate attributeName="opacity" dur="1.7607514744834616" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="524" cy="638" r="1.907874481148122" fill="white" />
+<animate attributeName="opacity" dur="2.8232410640556145" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="295" cy="545" r="0.6225657530745473" fill="white" />
+<animate attributeName="opacity" dur="3.1906400752343282" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="1057" cy="262" r="1.9517716047544316" fill="white" />
+<animate attributeName="opacity" dur="3.878072984887025" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="442" cy="28" r="1.7861190768968498" fill="white" />
+<animate attributeName="opacity" dur="1.8518476958452683" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="880" cy="25" r="0.7404629833625177" fill="white" />
+<animate attributeName="opacity" dur="1.3412538740565552" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="955" cy="681" r="0.16805647805222487" fill="white" />
+<animate attributeName="opacity" dur="1.9591319425382208" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="696" cy="578" r="1.0491621983176547" fill="white" />
+<animate attributeName="opacity" dur="2.075492943186571" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="734" cy="570" r="1.2288952129092683" fill="white" />
+<animate attributeName="opacity" dur="2.2135453257683233" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="985" cy="135" r="0.38154610088220076" fill="white" />
+<animate attributeName="opacity" dur="2.0058221296834846" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="562" cy="397" r="1.65007171184243" fill="white" />
+<animate attributeName="opacity" dur="1.0468767448811058" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="48" cy="18" r="0.9121482542292036" fill="white" />
+<animate attributeName="opacity" dur="1.1293560627118433" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="691" cy="210" r="1.3617050649598583" fill="white" />
+<animate attributeName="opacity" dur="2.2084463806981987" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="923" cy="649" r="0.7850032059919895" fill="white" />
+<animate attributeName="opacity" dur="2.5186705516797545" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="378" cy="693" r="0.23055803890162466" fill="white" />
+<animate attributeName="opacity" dur="1.2573652158700013" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="234" cy="417" r="1.843372796362405" fill="white" />
+<animate attributeName="opacity" dur="0.7086954774255223" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="861" cy="489" r="1.572625235727034" fill="white" />
+<animate attributeName="opacity" dur="1.7406644125433983" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="69" cy="508" r="1.3166618455506547" fill="white" />
+<animate attributeName="opacity" dur="3.1597627681333433" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="644" cy="326" r="1.249140629057307" fill="white" />
+<animate attributeName="opacity" dur="1.7191013765486942" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="25" cy="275" r="1.9971239800785108" fill="white" />
+<animate attributeName="opacity" dur="0.7059952482676006" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="466" cy="11" r="0.4429591775488618" fill="white" />
+<animate attributeName="opacity" dur="3.7348680878232807" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="481" cy="657" r="1.4220019740787675" fill="white" />
+<animate attributeName="opacity" dur="1.5234937322828808" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="405" cy="11" r="0.2673694516662579" fill="white" />
+<animate attributeName="opacity" dur="2.0819164133276824" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="67" cy="34" r="1.8667593339117614" fill="white" />
+<animate attributeName="opacity" dur="2.9852563254208295" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="24" cy="181" r="0.9089321572872742" fill="white" />
+<animate attributeName="opacity" dur="2.5549477124748066" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="1016" cy="665" r="0.4956322400702451" fill="white" />
+<animate attributeName="opacity" dur="3.478898408660232" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="664" cy="534" r="1.0989801200655016" fill="white" />
+<animate attributeName="opacity" dur="1.1248105502881343" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="175" cy="654" r="0.19107655357832715" fill="white" />
+<animate attributeName="opacity" dur="1.1100168743668821" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="809" cy="325" r="1.3709134112291335" fill="white" />
+<animate attributeName="opacity" dur="3.3195757145924745" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="129" cy="172" r="0.22555869268483175" fill="white" />
+<animate attributeName="opacity" dur="3.3177752044746986" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="528" cy="605" r="1.9840869496398756" fill="white" />
+<animate attributeName="opacity" dur="2.799592382315084" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="173" cy="636" r="0.20703901686012038" fill="white" />
+<animate attributeName="opacity" dur="1.3231008276304324" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="342" cy="145" r="1.9246675817230747" fill="white" />
+<animate attributeName="opacity" dur="2.9156183960180986" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="4" cy="678" r="0.18360286613153826" fill="white" />
+<animate attributeName="opacity" dur="2.5231350737156033" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="267" cy="523" r="0.49731523030714364" fill="white" />
+<animate attributeName="opacity" dur="3.504225582314911" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="956" cy="488" r="1.5058963774528602" fill="white" />
+<animate attributeName="opacity" dur="2.3694087671840567" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="19" cy="528" r="1.3342269114548944" fill="white" />
+<animate attributeName="opacity" dur="2.19271824061056" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="774" cy="52" r="1.8619113863601082" fill="white" />
+<animate attributeName="opacity" dur="3.5963842870764227" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="319" cy="83" r="1.726621368974475" fill="white" />
+<animate attributeName="opacity" dur="3.4728162777313774" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="1045" cy="483" r="1.1175465824082988" fill="white" />
+<animate attributeName="opacity" dur="3.8695966329281815" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="508" cy="253" r="1.290765598806608" fill="white" />
+<animate attributeName="opacity" dur="1.948872030690899" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="591" cy="219" r="1.7156813075525077" fill="white" />
+<animate attributeName="opacity" dur="2.788281357959078" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="364" cy="193" r="0.735635229069348" fill="white" />
+<animate attributeName="opacity" dur="2.3263220720229683" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="357" cy="122" r="1.7782932922080954" fill="white" />
+<animate attributeName="opacity" dur="3.4128185121121124" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="732" cy="524" r="0.17322537097337562" fill="white" />
+<animate attributeName="opacity" dur="2.530452579911504" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="899" cy="316" r="0.44253857409350983" fill="white" />
+<animate attributeName="opacity" dur="1.4745728285344475" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="1061" cy="380" r="1.393308407369425" fill="white" />
+<animate attributeName="opacity" dur="2.2467882554221923" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="529" cy="191" r="0.1381878582870816" fill="white" />
+<animate attributeName="opacity" dur="2.4600771205379393" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="141" cy="664" r="1.8374915621991907" fill="white" />
+<animate attributeName="opacity" dur="0.704037028118986" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="77" cy="622" r="1.9589436147047317" fill="white" />
+<animate attributeName="opacity" dur="0.9619864748116742" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="306" cy="15" r="0.7789727257931957" fill="white" />
+<animate attributeName="opacity" dur="1.8902275431230706" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="422" cy="174" r="1.2279642039274785" fill="white" />
+<animate attributeName="opacity" dur="0.7851830043762237" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="927" cy="652" r="1.6729801924123895" fill="white" />
+<animate attributeName="opacity" dur="2.7356093815477163" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="409" cy="575" r="0.3579617159334423" fill="white" />
+<animate attributeName="opacity" dur="3.9688806809516075" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<g>
+<circle cx="760" cy="634" r="1.7972669276098474" fill="white" />
+<animate attributeName="opacity" dur="3.553587372156345" from="1" to="0" values="1;0;1" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</g>
+<image x="250.0" y="50.0" width="600" height="600" xlink:href="https://freepngimg.com/save/29984-handball/2480x2480" opacity="0.5" />
+<path d="M150.0,100.0 L190.0,600.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M150.0,100.0 L950.0,125.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M190.0,100.0 L230.0,600.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M150.0,125.0 L950.0,150.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M230.0,100.0 L270.0,600.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M150.0,150.0 L950.0,175.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M270.0,100.0 L310.0,600.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M150.0,175.0 L950.0,200.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M310.0,100.0 L350.0,600.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M150.0,200.0 L950.0,225.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M350.0,100.0 L390.0,600.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M150.0,225.0 L950.0,250.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M390.0,100.0 L430.0,600.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M150.0,250.0 L950.0,275.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M430.0,100.0 L470.0,600.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M150.0,275.0 L950.0,300.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M470.0,100.0 L510.0,600.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M150.0,300.0 L950.0,325.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M510.0,100.0 L550.0,600.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M150.0,325.0 L950.0,350.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M550.0,100.0 L590.0,600.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M150.0,350.0 L950.0,375.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M590.0,100.0 L630.0,600.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M150.0,375.0 L950.0,400.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M630.0,100.0 L670.0,600.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M150.0,400.0 L950.0,425.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M670.0,100.0 L710.0,600.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M150.0,425.0 L950.0,450.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M710.0,100.0 L750.0,600.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M150.0,450.0 L950.0,475.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M750.0,100.0 L790.0,600.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M150.0,475.0 L950.0,500.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M790.0,100.0 L830.0,600.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M150.0,500.0 L950.0,525.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M830.0,100.0 L870.0,600.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M150.0,525.0 L950.0,550.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M870.0,100.0 L910.0,600.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M150.0,550.0 L950.0,575.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M910.0,100.0 L950.0,600.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M150.0,575.0 L950.0,600.0" stroke="#888888" stroke-width="2" stroke-dasharray="5,5" />
+<path d="M150.0,100.0 L190.0,100.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M150.0,100.0 L150.0,125.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M950.0,100.0 L950.0,125.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M190.0,100.0 L230.0,100.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M150.0,125.0 L150.0,150.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M950.0,125.0 L950.0,150.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M230.0,100.0 L270.0,100.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M150.0,150.0 L150.0,175.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M950.0,150.0 L950.0,175.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M270.0,100.0 L310.0,100.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M150.0,175.0 L150.0,200.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M950.0,175.0 L950.0,200.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M310.0,100.0 L350.0,100.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M150.0,200.0 L150.0,225.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M950.0,200.0 L950.0,225.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M350.0,100.0 L390.0,100.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M150.0,225.0 L150.0,250.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M950.0,225.0 L950.0,250.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M390.0,100.0 L430.0,100.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M150.0,250.0 L150.0,275.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M950.0,250.0 L950.0,275.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M430.0,100.0 L470.0,100.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M150.0,275.0 L150.0,300.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M950.0,275.0 L950.0,300.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M470.0,100.0 L510.0,100.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M150.0,300.0 L150.0,325.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M950.0,300.0 L950.0,325.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M510.0,100.0 L550.0,100.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M150.0,325.0 L150.0,350.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M950.0,325.0 L950.0,350.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M550.0,100.0 L590.0,100.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M150.0,350.0 L150.0,375.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M950.0,350.0 L950.0,375.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M590.0,100.0 L630.0,100.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M150.0,375.0 L150.0,400.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M950.0,375.0 L950.0,400.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M630.0,100.0 L670.0,100.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M150.0,400.0 L150.0,425.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M950.0,400.0 L950.0,425.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M670.0,100.0 L710.0,100.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M150.0,425.0 L150.0,450.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M950.0,425.0 L950.0,450.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M710.0,100.0 L750.0,100.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M150.0,450.0 L150.0,475.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M950.0,450.0 L950.0,475.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M750.0,100.0 L790.0,100.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M150.0,475.0 L150.0,500.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M950.0,475.0 L950.0,500.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M790.0,100.0 L830.0,100.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M150.0,500.0 L150.0,525.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M950.0,500.0 L950.0,525.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M830.0,100.0 L870.0,100.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M150.0,525.0 L150.0,550.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M950.0,525.0 L950.0,550.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M870.0,100.0 L910.0,100.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M150.0,550.0 L150.0,575.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M950.0,550.0 L950.0,575.0" stroke="red" stroke-width="8" stroke-linecap="round" />
+<path d="M910.0,100.0 L950.0,100.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M150.0,575.0 L150.0,600.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<path d="M950.0,575.0 L950.0,600.0" stroke="white" stroke-width="8" stroke-linecap="round" />
+<use xlink:href="#clip-0" />
+<g transform="rotate(0.0 550.0 350.0)">
+<g transform="rotate(-0.0 700.0 350.0)">
+<image x="650.0" y="300.0" width="100" height="100" xlink:href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/2560px-Flag_of_Italy.svg.png" clip-path="url(#clip-0)" />
+</g>
+<animateTransform attributeName="transform" dur="10s" from="0 550.0 350.0" to="360 550.0 350.0" type="rotate" repeatCount="indefinite" />
+</g>
+<use xlink:href="#clip-1" />
+<g transform="rotate(45.0 550.0 350.0)">
+<g transform="rotate(-45.0 656.0660171779821 456.06601717798213)">
+<image x="606.0660171779821" y="406.06601717798213" width="100" height="100" xlink:href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png" clip-path="url(#clip-1)" />
+</g>
+<animateTransform attributeName="transform" dur="10s" from="0 550.0 350.0" to="360 550.0 350.0" type="rotate" repeatCount="indefinite" />
+</g>
+<use xlink:href="#clip-2" />
+<g transform="rotate(90.0 550.0 350.0)">
+<g transform="rotate(-90.0 550.0 500.0)">
+<image x="500.0" y="450.0" width="100" height="100" xlink:href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1016px-1016px-Flag_of_Denmark.svg.png" clip-path="url(#clip-2)" />
+</g>
+<animateTransform attributeName="transform" dur="10s" from="0 550.0 350.0" to="360 550.0 350.0" type="rotate" repeatCount="indefinite" />
+</g>
+<use xlink:href="#clip-3" />
+<g transform="rotate(135.0 550.0 350.0)">
+<g transform="rotate(-135.0 443.93398282201787 456.06601717798213)">
+<image x="393.93398282201787" y="406.06601717798213" width="100" height="100" xlink:href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png" clip-path="url(#clip-3)" />
+</g>
+<animateTransform attributeName="transform" dur="10s" from="0 550.0 350.0" to="360 550.0 350.0" type="rotate" repeatCount="indefinite" />
+</g>
+<use xlink:href="#clip-4" />
+<g transform="rotate(180.0 550.0 350.0)">
+<g transform="rotate(-180.0 400.0 350.0)">
+<image x="350.0" y="300.0" width="100" height="100" xlink:href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png" clip-path="url(#clip-4)" />
+</g>
+<animateTransform attributeName="transform" dur="10s" from="0 550.0 350.0" to="360 550.0 350.0" type="rotate" repeatCount="indefinite" />
+</g>
+<use xlink:href="#clip-5" />
+<g transform="rotate(225.0 550.0 350.0)">
+<g transform="rotate(-225.0 443.93398282201787 243.93398282201787)">
+<image x="393.93398282201787" y="193.93398282201787" width="100" height="100" xlink:href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1200px-Flag_of_Austria.svg.png" clip-path="url(#clip-5)" />
+</g>
+<animateTransform attributeName="transform" dur="10s" from="0 550.0 350.0" to="360 550.0 350.0" type="rotate" repeatCount="indefinite" />
+</g>
+<use xlink:href="#clip-6" />
+<g transform="rotate(270.0 550.0 350.0)">
+<g transform="rotate(-270.0 550.0 200.0)">
+<image x="500.0" y="150.0" width="100" height="100" xlink:href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/1200px-Flag_of_Qatar.svg.png" clip-path="url(#clip-6)" />
+</g>
+<animateTransform attributeName="transform" dur="10s" from="0 550.0 350.0" to="360 550.0 350.0" type="rotate" repeatCount="indefinite" />
+</g>
+<use xlink:href="#clip-7" />
+<g transform="rotate(315.0 550.0 350.0)">
+<g transform="rotate(-315.0 656.0660171779821 243.93398282201787)">
+<image x="606.0660171779821" y="193.93398282201787" width="100" height="100" xlink:href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/2560px-Flag_of_Kuwait.svg.png" clip-path="url(#clip-7)" />
+</g>
+<animateTransform attributeName="transform" dur="10s" from="0 550.0 350.0" to="360 550.0 350.0" type="rotate" repeatCount="indefinite" />
+</g>
+<image x="490.0" y="290.0" width="120" height="120" xlink:href="https://images.bfmtv.com/yGK_i9cM5vb24uH1u7_mn_-kZBE=/0x0:0x0/400x0/site_manager_images/noeud/rmcsport/1731107883391_2025_world_championship_png_championnats_du_monde_1731107891743.png" />
+<image x="490.0" y="290.0" width="120" height="120" xlink:href="https://images.bfmtv.com/yGK_i9cM5vb24uH1u7_mn_-kZBE=/0x0:0x0/400x0/site_manager_images/noeud/rmcsport/1731107883391_2025_world_championship_png_championnats_du_monde_1731107891743.png" />
+<animateTransform attributeName="transform" dur="4s" from="1 1" to="1.01 1.01" values="1 1;1.05 1.05;1 1" type="scale" repeatCount="indefinite" keyTimes="0;0.5;1" />
+<image x="490.0" y="290.0" width="120" height="120" xlink:href="https://images.bfmtv.com/yGK_i9cM5vb24uH1u7_mn_-kZBE=/0x0:0x0/400x0/site_manager_images/noeud/rmcsport/1731107883391_2025_world_championship_png_championnats_du_monde_1731107891743.png" />
+<animateTransform attributeName="transform" dur="4s" from="1 1" to="1.005 1.005" values="1 1;1.05 1.05;1 1" type="scale" repeatCount="indefinite" keyTimes="0;0.5;1" />
+</svg>
