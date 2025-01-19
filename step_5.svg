@@ -985,6 +985,4 @@
 </g>
 <animateTransform attributeName="transform" dur="10s" from="0 550.0 350.0" to="360 550.0 350.0" type="rotate" repeatCount="indefinite" />
 </g>
-<image x="490.0" y="290.0" width="120" height="120" xlink:href="https://images.bfmtv.com/yGK_i9cM5vb24uH1u7_mn_-kZBE=/0x0:0x0/400x0/site_manager_images/noeud/rmcsport/1731107883391_2025_world_championship_png_championnats_du_monde_1731107891743.png" />
-<animateTransform attributeName="transform" dur="4s" from="1 1" to="1.005 1.005" values="1 1;1.05 1.05;1 1" type="scale" repeatCount="indefinite" keyTimes="0;0.5;1" />
 </svg>
